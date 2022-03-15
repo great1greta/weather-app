@@ -1,0 +1,78 @@
+.app {
+  border: 1px solid #000000;
+  padding: 20px;
+  padding-left: 30px;
+  margin: 20px;
+  max-width: 650px;
+  border-radius: 10px;
+  background: rgb(207, 226, 253);
+}
+
+h4 {
+  font-size: 17px;
+  font-weight: 400;
+}
+
+h3 {
+  margin-bottom: 13px;
+  font-weight: 400;
+  font-size: 17px;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ffff;
+  border-radius: 5px;
+  background: rgb(161, 193, 239);
+}
+.temperature {
+  font-size: 50px;
+}
+.units {
+  position: relative;
+  top: -25px;
+  font-size: 20px;
+}
+
+.snow-icon {
+  color: white;
+  padding: 15px;
+  font-size: 50px;
+}
+
+h1 {
+  padding: 5px 0 10px 0;
+}
+
+ul {
+  list-style: none;
+  margin-top: 20px;
+}
+
+.card {
+  background: rgb(175, 203, 243);
+  border-radius: 10px;
+  border: 1px solid #ffff;
+  font-size: 16px;
+  background: rgb(161, 193, 239);
+}
+.prognosis-snowflake {
+  color: white;
+  font-size: 25px;
+}
+.prognosis-cloudy {
+  color: rgb(239, 239, 0);
+  font-size: 25px;
+}
+h5 {
+  font-size: 17px;
+}
+.col-2 {
+  padding: 0;
+}
+.col-7,
+.col-6,
+.col-3 {
+  padding: 1px;
+}
